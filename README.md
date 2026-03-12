@@ -1,2 +1,1 @@
-# Python_Practise
-Common python concepts
+"# Python_Practise" 
