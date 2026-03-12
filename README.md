@@ -1,2 +1,2 @@
 # Python_Practise
-Common pythn concepts
+Common python concepts
